@@ -1,2 +1,0 @@
-<!--pages/Outweb/outweb.wxml-->
-<web-view src="{{website}}"></web-view>
