@@ -121,5 +121,16 @@ Page({
    */
   onShareAppMessage: function() {
 
+  },
+
+  goSUMSC: function(){
+    wx.navigateTo({
+      url: '../Outweb/outweb?website=' + "http://sumsc.xin",
+    })
+  },
+  goMSD: function () {
+    wx.navigateTo({
+      url: '../Outweb/outweb?website=' + "https://developer.microsoft.com/zh-cn/windows",
+    })
   }
 })

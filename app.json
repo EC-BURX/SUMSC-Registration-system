@@ -1,8 +1,8 @@
 {
   "pages": [
-    "pages/Outweb/outweb",
     "pages/Welcome/welcome",
     "pages/SelectActivity/selectactivity",
+    "pages/Outweb/outweb",
     "pages/ActivityInfo/activityinfo",
     "pages/Enroll/enroll",
     "pages/Enrollteam/enrollteam",

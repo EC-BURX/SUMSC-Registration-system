@@ -87,9 +87,8 @@
   <view class='bottomtips1'>
     <view class='bottomtips2'>
       <text class="bt_1">更多</text>
-      <text class='bt_2' bindtap='未配置'>SUMSC站点</text>
-      <text class='bt_2'>微软开发人员中心</text>
-      <text class='bt_2'>XXX的个人网站</text>
+      <text class='bt_2' bindtap='goSUMSC'>SUMSC站点</text>
+      <text class='bt_2' bindtap='goMSD'>微软开发人员中心</text>
 
     </view>
     <view class='bottomtips2'>
